@@ -8,6 +8,6 @@ If you want to run this program, you should install Tkinter and Threading Module
 
 You must always run to Socketserver.py
 
-Next, you run to Socketclien1 & 2.py
+Next, you run to Socketclient1 & 2.py
 
-Finally Client 1 & 2 connect to a server as server ip which Socketserver.py is run
+Finally Socketclient 1&2 connect to computer ip which is server ip that socket.py is run
